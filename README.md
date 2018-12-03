@@ -4,7 +4,6 @@
 > npm install
 >npm run dev
 
-
 ##效果展示图片
 ![1](https://github.com/lzhsus/db/blob/master/zs/db%E4%B9%A6%E9%98%B4%E5%BD%B1.png)
 ![2](https://github.com/lzhsus/db/blob/master/zs/db%E5%B0%8F%E7%BB%84.png)
